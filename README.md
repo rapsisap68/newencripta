@@ -1,5 +1,5 @@
-<em> # Encriptador y Descencriptador de Mensajes con Reglas Preestablecidas por Alura </em>
-<h1 align="center"> Encriptador y Descencriptador </h1>
+<em> # Encriptador y Desencriptador de Mensajes, con Reglas Preestablecidas por Alura </em>
+<h1 align="center"> Encriptador y Desencriptador </h1>
 ##Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
